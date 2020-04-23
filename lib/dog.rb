@@ -8,6 +8,3 @@ class Dog
     puts "The Dog is sitting"
   end
 end
-
-Dog.bark
-Dog.sit
